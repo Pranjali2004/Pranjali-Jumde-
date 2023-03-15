@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class ArrayDemoc3{
+class Array5{
 	public static void main(String[] args) {
 		int arr[]=new int[10],even=0,odd=0;
 		Scanner sc=new Scanner(System.in);
